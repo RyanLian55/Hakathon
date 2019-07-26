@@ -2,13 +2,13 @@
 import axios from 'axios';
 
 // CORS enabled apikey
-const apikey = 'e44fd966d0822fdbe291c7ca36880acc114b3';
+const apikey_survey = '5d3b1a3df3a8501f7b40dcfb';
 
 // REST endpoint
 let restdb = axios.create({
   baseURL: 'https://project02-9eca.restdb.io',
   timeout: 2000,
-  headers: { 'x-apikey': apikey }
+  headers: { 'x-apikey': apikey_survey }
 });
 
-export { apikey, restdb };
+export { apikey_survey, restdb };

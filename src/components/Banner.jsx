@@ -5,11 +5,11 @@ class Banner extends React.Component {
   componentDidMount() {
     debugger;
     console.log('======componentDidMount');
-    this.testGetListTitle();
+    this.testGetListSurvey();
   }
 
-  testGetListTitle = () => {
-    restdb.get("/rest/topic")
+  testGetListSurvey = () => {
+    restdb.get("/rest/survey")
         .then(res => {
           console.log('======res', res);
           debugger;
