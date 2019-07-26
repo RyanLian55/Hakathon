@@ -4,6 +4,7 @@ import { restdb } from '../utils/helper';
 class Banner extends React.Component {
   componentDidMount() {
     debugger;
+    console.log('======componentDidMount');
     this.testGetListTitle();
   }
 
