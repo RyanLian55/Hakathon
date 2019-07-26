@@ -1,6 +1,20 @@
 import React from 'react';
+import { restdb } from '../utils/helper';
 
 class Banner extends React.Component {
+  componentDidMount() {
+    debugger;
+    this.testGetListTitle();
+  }
+
+  testGetListTitle = () => {
+    restdb.get("/rest/topic")
+        .then(res => {
+          console.log('======res', res);
+          debugger;
+        });
+  };
+
   render() {
     return (
       <section className="home_banner_area">
