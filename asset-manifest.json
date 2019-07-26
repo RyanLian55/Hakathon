@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Hakathon/static/css/main.ef008ee0.chunk.css",
+    "main.js": "/Hakathon/static/js/main.ec41014c.chunk.js",
+    "main.js.map": "/Hakathon/static/js/main.ec41014c.chunk.js.map",
+    "runtime~main.js": "/Hakathon/static/js/runtime~main.2417bb36.js",
+    "runtime~main.js.map": "/Hakathon/static/js/runtime~main.2417bb36.js.map",
+    "static/css/2.a317ec87.chunk.css": "/Hakathon/static/css/2.a317ec87.chunk.css",
+    "static/js/2.60f94cf8.chunk.js": "/Hakathon/static/js/2.60f94cf8.chunk.js",
+    "static/js/2.60f94cf8.chunk.js.map": "/Hakathon/static/js/2.60f94cf8.chunk.js.map",
+    "index.html": "/Hakathon/index.html",
+    "precache-manifest.2f1bf40b241d4d0ce912087fe46a52e7.js": "/Hakathon/precache-manifest.2f1bf40b241d4d0ce912087fe46a52e7.js",
+    "service-worker.js": "/Hakathon/service-worker.js",
+    "static/css/2.a317ec87.chunk.css.map": "/Hakathon/static/css/2.a317ec87.chunk.css.map",
+    "static/css/main.ef008ee0.chunk.css.map": "/Hakathon/static/css/main.ef008ee0.chunk.css.map",
+    "static/media/App.css": "/Hakathon/static/media/subscribe-bg.c1f25fd1.jpg"
+  }
+}
